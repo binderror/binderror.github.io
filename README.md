@@ -1,2 +1,2 @@
 # binderror.github.io
-Setting up a static website for blogging
+Setting up a github pages site for blogging
