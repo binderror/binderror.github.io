@@ -1,1 +1,26 @@
 remote_theme: binderror/long-haul
+title: Tech Notes
+description: Blogging on various tech explorations
+
+url: https://github.com/binderror/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+
+social:
+  github: mathewjpallan
+  linkedIn: https://www.linkedin.com/in/mathew-pallan-5823a46
+  email: mathewjpallan@gmail.com
+
+google_analytics: ""
