@@ -1,8 +1,9 @@
 ---
 layout: post
-title: SSL/TLS - a hybrid cryptosystem
+title: SSL/TLS - A Hybrid Crypto System
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 SSL is used to secure network communication. It uses a hybrid cypto model leveraging symmetric and asymmetric ciphers.

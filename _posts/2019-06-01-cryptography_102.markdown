@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Symmetric v/s Asymmetric Cipher
+title: Hybrid Crypto System
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 There are pros and cons with each key cipher type and so we cannot just choose to use one type over another.

@@ -3,6 +3,7 @@ layout: post
 title: Public Key Infrastructure
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 Public key infrastructure(PKI) is a set of roles, policies and processes which are essential to facilitate Asymmetric key cryptography. PKI allows mapping public keys to users/entities and provides an ability to verify the public key offline.

@@ -3,6 +3,7 @@ layout: post
 title: Key Based Cipher Types
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 There are 2 broad types of key based Ciphers - Symmetric and Asymmetric Key based ciphers

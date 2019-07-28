@@ -3,6 +3,7 @@ layout: post
 title: Asymmetric Key Cipher
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 Asymmetric key ciphers use a mathematically linked key pair(public/private key) for encryption/decryption. Data encrypted using the public key can be decrypted only using the corresponding private key. Data encrypted using the private key can be decrypted only using the corresponding public key. The following sections should give you a logical view of how it works.

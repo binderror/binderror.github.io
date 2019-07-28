@@ -3,6 +3,7 @@ layout: post
 title: Symmetric Key Cipher
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 Symmetric key ciphers use the same secret key for both encryption and decryption. The following sections should give you a logical view of how it works.

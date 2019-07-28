@@ -3,6 +3,7 @@ layout: post
 title: Introduction to cryptography
 categories: [Cryptography, DataSecurity]
 tags: [Encryption, Decryption, Cipher, Cryptography]
+shownav: showReverse
 ---
 
 Cryptography is the science of secret writing so that only the intended recipient can interpret it while others may be seeing it.
