@@ -6,7 +6,7 @@ title: About
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
 	<p class="intro">
-		I am a technology architect & polyglot programmer with over 15 years of experience. I have owned architecture, development, implementation (rollout) and scaling of systems & platforms in various Java/Javascript/Data technologies and mobile apps on IOS/Android. I have adopted and productionised new frameworks and tech stacks with a key focus on containerization, devops practices, automation & infra usage optimization. Over the years I have also realized that building sustainable & self organizing teams is crucial to project success and so I actively mentor the team to bring the best out of people.
+		I am a technology architect & polyglot programmer with over 15 years of experience. I have owned architecture, development, implementation (rollout) and scaling of systems & platforms in Java/Javascript/Data technologies(on-prem/cloud) and mobile apps on IOS/Android. I have adopted and productionised new frameworks and tech stacks with a key focus on containerization, devops practices, automation, scale & infra usage optimization. Over the years I have also realized that building sustainable & self organizing teams is crucial to project success and so I actively mentor the team to bring the best out of people.
 	</p>
 <p>
 	After years of procrastination, I have finally managed to setup this static pages site on Github to share my tech views. The domain name is heavily influenced by stackoverflow and would be familiar to anyone who has done mainframe or socket programming :)
